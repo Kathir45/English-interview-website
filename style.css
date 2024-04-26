@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body {
+    
+    
+    
+}
+.navbar-section{
+    background: url('banner.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.nav{
+    background: transparent;
+    filter: blur("20%");
+    
+}
+.banner{
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+}
+
+.qanda h6{
+    padding: 15px;
+    
+    color: white;
+}
+.qanda h2{
+    padding: 5px;
+    color: red;
+    
+    
+}
+.qanda img{
+    width: 250px;
+    margin-left: 20%;
+}
+.bg-section{
+    background: rgb(142,165,251);
+background: linear-gradient(90deg, rgba(142,165,251,1) 0%, rgba(252,69,229,0.9761015635270339) 100%);
+}
+.files{
+    max-width: 100%;
+    text-decoration: none;
+    
+}
+.files a{
+    text-decoration: none;
+}
+body h2{
+    color: white;
+}
+footer{
+    background-color: #30385f;
+}
